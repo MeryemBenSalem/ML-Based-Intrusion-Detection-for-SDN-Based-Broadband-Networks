@@ -51,6 +51,9 @@ Both approaches are trained and evaluated using the **NSL-KDD dataset**, an enha
 ## Presentation
 
 A presentation summarizing the project, its approaches, and key results is available in this repository. You can find the presentation [here](./presentation.pdf).
+## Research Paper 
+
+ You can find the paper [here](./Research_Paper.pdf).
 
 ## Installation
 
